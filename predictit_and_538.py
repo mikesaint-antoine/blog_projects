@@ -3,7 +3,7 @@ import csv
 from sklearn import metrics
 import matplotlib.pyplot as plt
 from eval_functions import *
-
+import sys
 
 ##################################################################################################
 ## global plot style vars
@@ -26,23 +26,30 @@ color_scheme = ["blue", "red", "orange","green","gray","black"]
 prob_mat = []
 outcomes = []
 incumbents = []
+ns_control = []
 
-## testing things out with fake data so i can figure out how to make the figs before election day
-with open("data/midterm_FAKE.csv") as tsvfile:
+with open("midterm_data.csv") as tsvfile:
     reader = csv.reader(tsvfile, delimiter=',')
 
     next(reader)
     # skipping first row (heading names)
 
     for row in reader:
-        prob_mat.append(row[2:11])
-        # leaving out manifold here, will include it in different file
+        # if row[15] != "UNRESOLVED" and (np.mean(np.array(row[2:11]).astype(float)) <=0.9 and np.mean(np.array(row[2:11]).astype(float)) >=0.1):
+        if row[15] != "UNRESOLVED" :
+            # getting preliminary results while some races are still unresolved
 
-        incumbents.append(row[14])
-        outcomes.append(row[15])
+            prob_mat.append(row[2:11])
+            # leaving out manifold here, will include it in other analysis
+
+            incumbents.append(row[14])
+            outcomes.append(row[15])
+            ns_control.append(0.5)
 
 
 
+# print(len(outcomes))
+# sys.exit()
 
 
 prob_mat = np.array(prob_mat).astype(float)
@@ -103,10 +110,18 @@ print_stats(outcomes,prob_mat[:,5],round=1)
 
 
 
-# # #incumbent control
-# print_stats(outcomes,incumbents,round=1)
+# #incumbent control
+print("Incumbent Control:")
+print_stats(outcomes,incumbents,round=1)
 
 
+
+# #no skill control
+print("No Skill Control:")
+print_stats(outcomes,ns_control,round=1)
+
+
+# sys.exit("check stats")
 
 
 ##########################################################################################

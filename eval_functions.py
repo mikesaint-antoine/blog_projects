@@ -1,7 +1,9 @@
 import numpy as np
 from sklearn import metrics
 
-def calibration(y_true,y_score,bin_bounds=[0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1]):
+# def calibration(y_true,y_score,bin_bounds=[0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1]):
+def calibration(y_true,y_score,bin_bounds=[0,0.2,0.4,0.6,0.8,1]):
+
     assert len(y_true) == len(y_score)
 
 
