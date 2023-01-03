@@ -1,8 +1,8 @@
 ﻿question,answer,predictit_2_weeks_out,predictit_1_week_out,predictit_day_before,538_2_weeks_out,538_1_week_out,538_day_before,ebo_2_weeks_out,ebo_1_week_out,ebo_day_before,manifold_2_weeks_out,manifold_1_week_out,manifold_day_before,incumbent,outcome
 Which party will control the Senate after 2022 election?,Democratic,0.39,0.35,0.34,0.55,0.5,0.46,0.396,0.35,0.348,0.46,0.4,0.43,1,1
 Which party will control the Senate after 2022 election?,Republican,0.65,0.7,0.7,0.45,0.5,0.54,0.604,0.65,0.653,0.54,0.6,0.57,0,0
-Which party will win the 2022 U.S. Senate election in Georgia?,Democratic,0.52,0.45,0.43,0.54,0.47,0.43,0.505,0.428,0.4,0.46,0.48,0.46,1,UNRESOLVED
-Which party will win the 2022 U.S. Senate election in Georgia?,Republican,0.52,0.6,0.62,0.46,0.53,0.57,0.495,0.572,0.6,0.54,0.52,0.54,0,UNRESOLVED
+Which party will win the 2022 U.S. Senate election in Georgia?,Democratic,0.52,0.45,0.43,0.54,0.47,0.43,0.505,0.428,0.4,0.46,0.48,0.46,1,1
+Which party will win the 2022 U.S. Senate election in Georgia?,Republican,0.52,0.6,0.62,0.46,0.53,0.57,0.495,0.572,0.6,0.54,0.52,0.54,0,0
 Which party will win the 2022 U.S. Senate election in Utah?,Democrat/Independent,0.1,0.09,0.07,0.05,0.04,0.04,0.1,0.085,0.075,0.11,0.18,0.13,0,0
 Which party will win the 2022 U.S. Senate election in Utah?,Republican,0.9,0.92,0.93,0.95,0.96,0.96,0.89,0.915,0.925,0.89,0.82,0.87,1,1
 Which party will win the 2022 Michigan gubernatorial election?,Democratic,0.71,0.76,0.79,0.87,0.88,0.88,0.706,0.732,0.762,0.72,0.76,0.77,1,1
