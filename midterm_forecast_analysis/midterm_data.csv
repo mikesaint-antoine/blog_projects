@@ -1,0 +1,81 @@
+﻿question,answer,predictit_2_weeks_out,predictit_1_week_out,predictit_day_before,538_2_weeks_out,538_1_week_out,538_day_before,ebo_2_weeks_out,ebo_1_week_out,ebo_day_before,manifold_2_weeks_out,manifold_1_week_out,manifold_day_before,incumbent,outcome
+Which party will control the Senate after 2022 election?,Democratic,0.39,0.35,0.34,0.55,0.5,0.46,0.396,0.35,0.348,0.46,0.4,0.43,1,1
+Which party will control the Senate after 2022 election?,Republican,0.65,0.7,0.7,0.45,0.5,0.54,0.604,0.65,0.653,0.54,0.6,0.57,0,0
+Which party will win the 2022 U.S. Senate election in Georgia?,Democratic,0.52,0.45,0.43,0.54,0.47,0.43,0.505,0.428,0.4,0.46,0.48,0.46,1,1
+Which party will win the 2022 U.S. Senate election in Georgia?,Republican,0.52,0.6,0.62,0.46,0.53,0.57,0.495,0.572,0.6,0.54,0.52,0.54,0,0
+Which party will win the 2022 U.S. Senate election in Utah?,Democrat/Independent,0.1,0.09,0.07,0.05,0.04,0.04,0.1,0.085,0.075,0.11,0.18,0.13,0,0
+Which party will win the 2022 U.S. Senate election in Utah?,Republican,0.9,0.92,0.93,0.95,0.96,0.96,0.89,0.915,0.925,0.89,0.82,0.87,1,1
+Which party will win the 2022 Michigan gubernatorial election?,Democratic,0.71,0.76,0.79,0.87,0.88,0.88,0.706,0.732,0.762,0.72,0.76,0.77,1,1
+Which party will win the 2022 Michigan gubernatorial election?,Republican,0.29,0.27,0.25,0.13,0.12,0.12,0.294,0.268,0.238,0.28,0.24,0.23,0,0
+Which party will win the U.S. Senate election in Pennsylvania in 2022?,Democratic,0.49,0.43,0.43,0.6,0.57,0.54,0.476,0.407,0.418,0.52,0.43,0.47,0,1
+Which party will win the U.S. Senate election in Pennsylvania in 2022?,Republican,0.53,0.61,0.6,0.4,0.43,0.46,0.524,0.593,0.582,0.48,0.57,0.53,1,0
+Which party will win the 2022 New York gubernatorial election?,Democratic,0.81,0.78,0.81,0.97,0.97,0.97,0.78,0.752,0.762,0.82,0.84,0.84,1,1
+Which party will win the 2022 New York gubernatorial election?,Republican,0.22,0.25,0.25,0.03,0.03,0.03,0.22,0.248,0.238,0.18,0.16,0.16,0,0
+Which party will win the House in the 2022 election?,Democratic,0.13,0.11,0.12,0.19,0.18,0.18,0.126,0.12,0.124,0.13,0.1,0.12,1,0
+Which party will win the House in the 2022 election?,Republican,0.88,0.9,0.91,0.81,0.82,0.82,0.873,0.88,0.876,0.87,0.9,0.88,0,1
+Which party will win the 2022 U.S. Senate election in Wisconsin?,Democratic,0.18,0.14,0.15,0.24,0.2,0.22,0.181,0.134,0.144,0.2,0.16,0.16,0,0
+Which party will win the 2022 U.S. Senate election in Wisconsin?,Republican,0.84,0.87,0.87,0.76,0.8,0.78,0.819,0.866,0.856,0.8,0.84,0.84,1,1
+Which party will win the 2022 U.S. Senate election in New Hampshire?,Democratic,0.71,0.71,0.66,0.78,0.76,0.73,0.715,0.696,0.638,0.74,0.73,0.67,1,1
+Which party will win the 2022 U.S. Senate election in New Hampshire?,Republican,0.29,0.32,0.38,0.22,0.24,0.27,0.285,0.304,0.362,0.26,0.27,0.33,0,0
+Which party will win the 2022 U.S. Senate election in Arizona?,Democratic,0.57,0.5,0.54,0.74,0.68,0.65,0.562,0.49,0.505,0.59,0.55,0.56,1,1
+Which party will win the 2022 U.S. Senate election in Arizona?,Republican,0.47,0.53,0.52,0.26,0.32,0.35,0.438,0.51,0.495,0.41,0.45,0.44,0,0
+Which party will win the 2022 Ohio gubernatorial election?,Democratic,0.04,0.03,0.02,0.01,0.01,0.01,0.045,0.035,0.025,,,0.04,0,0
+Which party will win the 2022 Ohio gubernatorial election?,Republican,0.97,0.97,0.98,0.99,0.99,0.99,0.955,0.965,0.975,,,0.96,1,1
+Which party will win the 2022 US Senate election in Washington?,Democratic,0.86,0.85,0.89,0.92,0.92,0.91,0.856,0.83,0.876,0.9,0.85,0.91,1,1
+Which party will win the 2022 US Senate election in Washington?,Republican,0.14,0.17,0.14,0.08,0.08,0.09,0.144,0.17,0.124,0.1,0.15,0.09,0,0
+Which party will win the 2022 U.S. Senate election in Colorado?,Democratic,0.9,0.92,0.89,0.88,0.91,0.92,0.886,0.906,0.881,0.89,0.87,0.86,1,1
+Which party will win the 2022 U.S. Senate election in Colorado?,Republican,0.11,0.09,0.11,0.12,0.09,0.08,0.114,0.094,0.119,0.11,0.13,0.14,0,0
+Which party will win the 2022 Pennsylvania gubernatorial election?,Democratic,0.79,0.85,0.9,0.94,0.95,0.97,0.787,0.837,0.879,0.83,0.85,0.87,1,1
+Which party will win the 2022 Pennsylvania gubernatorial election?,Republican,0.22,0.17,0.12,0.06,0.05,0.03,0.213,0.163,0.121,0.17,0.15,0.13,0,0
+Which party will win the 2022 Arizona gubernatorial election?,Democratic,0.23,0.21,0.21,0.42,0.38,0.38,0.225,0.216,0.191,0.31,0.28,0.27,0,1
+Which party will win the 2022 Arizona gubernatorial election?,Republican,0.77,0.82,0.81,0.58,0.62,0.62,0.77,0.784,0.809,0.69,0.72,0.73,1,0
+Which party will win the U.S. Senate election in Ohio in 2022?,Democratic,0.18,0.15,0.13,0.24,0.21,0.15,0.172,0.142,0.123,0.24,0.21,0.14,0,0
+Which party will win the U.S. Senate election in Ohio in 2022?,Republican,0.83,0.88,0.9,0.76,0.79,0.85,0.828,0.858,0.877,0.76,0.79,0.86,1,1
+Which party will win the U.S. Senate election in Florida in 2022?,Democratic,0.07,0.06,0.05,0.09,0.07,0.05,0.074,0.064,0.045,0.08,0.07,0.06,0,0
+Which party will win the U.S. Senate election in Florida in 2022?,Republican,0.93,0.94,0.97,0.91,0.93,0.95,0.926,0.936,0.955,0.92,0.93,0.94,1,1
+Which party will win the 2022 Illinois gubernatorial election?,Democratic,0.93,0.94,0.96,0.99,0.99,0.99,0.916,0.916,0.955,,,0.92,1,1
+Which party will win the 2022 Illinois gubernatorial election?,Republican,0.08,0.07,0.05,0.01,0.01,0.01,0.084,0.084,0.045,,,0.08,0,0
+Which party will win the U.S. Senate election in North Carolina in 2022?,Democratic,0.12,0.12,0.1,0.23,0.22,0.2,0.115,0.114,0.104,0.17,0.12,0.12,0,0
+Which party will win the U.S. Senate election in North Carolina in 2022?,Republican,0.88,0.9,0.91,0.77,0.78,0.8,0.875,0.886,0.896,0.83,0.88,0.88,1,1
+Which party will win the 2022 Connecticut gubernatorial election?,Democratic,0.89,0.92,0.97,0.98,0.98,0.99,0.885,0.905,0.955,,,0.95,1,1
+Which party will win the 2022 Connecticut gubernatorial election?,Republican,0.11,0.09,0.05,0.02,0.02,0.01,0.115,0.095,0.045,,,0.05,0,0
+Which party will win the 2022 U.S. Senate election in Iowa?,Democratic,0.06,0.06,0.03,0.03,0.04,0.03,0.065,0.064,0.025,,,0.03,0,0
+Which party will win the 2022 U.S. Senate election in Iowa?,Republican,0.93,0.95,0.98,0.97,0.96,0.97,0.935,0.936,0.975,,,0.97,1,1
+Which party will win the 2022 Minnesota gubernatorial election?,Democratic,0.78,0.78,0.86,0.91,0.91,0.94,0.775,0.77,0.847,0.83,0.81,0.84,1,1
+Which party will win the 2022 Minnesota gubernatorial election?,Republican,0.22,0.24,0.17,0.09,0.09,0.06,0.225,0.23,0.153,0.17,0.19,0.16,0,0
+Which party will win the 2022 Georgia gubernatorial election?,Democratic,0.08,0.08,0.07,0.09,0.09,0.07,0.084,0.083,0.078,0.1,0.09,0.07,0,0
+Which party will win the 2022 Georgia gubernatorial election?,Republican,0.92,0.93,0.94,0.91,0.91,0.93,0.916,0.917,0.922,0.9,0.91,0.93,1,1
+Which party will win the 2022 New Mexico gubernatorial election?,Democratic,0.74,0.78,0.78,0.85,0.83,0.84,0.728,0.76,0.767,0.87,0.79,0.76,1,1
+Which party will win the 2022 New Mexico gubernatorial election?,Republican,0.29,0.25,0.24,0.15,0.17,0.16,0.272,0.24,0.233,0.13,0.21,0.24,0,0
+Which party will win the 2022 Oregon gubernatorial election?,Democratic,0.5,0.48,0.59,0.48,0.49,0.54,0.485,0.47,0.552,0.45,0.49,0.54,1,1
+Which party will win the 2022 Oregon gubernatorial election?,Republican,0.53,0.55,0.46,0.51,0.51,0.45,0.515,0.53,0.448,0.55,0.51,0.46,0,0
+Which party will win the 2022 Kansas gubernatorial election?,Democratic,0.43,0.44,0.54,0.61,0.61,0.66,0.421,0.431,0.527,0.49,0.47,0.52,1,1
+Which party will win the 2022 Kansas gubernatorial election?,Republican,0.58,0.57,0.47,0.39,0.39,0.34,0.579,0.569,0.473,0.51,0.53,0.48,0,0
+Which party will win the 2022 Nevada gubernatorial election?,Democratic,0.29,0.32,0.22,0.5,0.47,0.44,0.286,0.319,0.207,0.51,0.34,0.28,1,0
+Which party will win the 2022 Nevada gubernatorial election?,Republican,0.72,0.7,0.8,0.5,0.53,0.56,0.714,0.681,0.793,0.49,0.66,0.72,0,1
+Which party will win the 2022 U.S. Senate election in Nevada?,Democratic,0.33,0.36,0.33,0.46,0.46,0.43,0.319,0.345,0.322,0.4,0.38,0.38,1,1
+Which party will win the 2022 U.S. Senate election in Nevada?,Republican,0.69,0.68,0.69,0.54,0.54,0.57,0.681,0.655,0.678,0.6,0.62,0.62,0,0
+Which party will win the 2022 US Senate election in Oregon?,Democratic,0.95,0.96,0.97,0.99,0.99,0.99,0.936,0.95,0.955,,,0.96,1,1
+Which party will win the 2022 US Senate election in Oregon?,Republican,0.06,0.04,0.04,0.01,0.01,0.01,0.064,0.045,0.045,,,0.04,0,0
+Which party will win the 2022 US Senate election in Vermont?,Democratic,0.95,0.95,0.98,0.99,0.99,0.99,0.945,0.945,0.965,,,0.92,1,1
+Which party will win the 2022 US Senate election in Vermont?,Republican,0.05,0.05,0.03,0.01,0.01,0.01,0.055,0.055,0.035,,,0.08,0,0
+Which party will win the U.S. Senate election in Alaska in 2022?,Democratic,0.02,0.02,0.01,0.01,0,0,0.015,0.02,0.015,,,0.03,0,0
+Which party will win the U.S. Senate election in Alaska in 2022?,Republican,0.98,0.98,0.99,0.99,1,1,0.975,0.975,0.985,,,0.97,1,1
+Which party will win the 2022 US Senate election in Illinois?,Democratic,0.94,0.96,0.98,0.99,0.99,0.99,0.945,0.955,0.975,,,0.95,1,1
+Which party will win the 2022 US Senate election in Illinois?,Republican,0.05,0.04,0.03,0.01,0.01,0.01,0.055,0.045,0.025,,,0.05,0,0
+Which party will win the 2022 U.S. Senate election in Missouri?,Democratic,0.03,0.02,0.02,0.01,0.01,0.01,0.03,0.035,0.015,0.04,0.04,0.009,0,0
+Which party will win the 2022 U.S. Senate election in Missouri?,Republican,0.98,0.97,0.99,0.99,0.99,0.99,0.97,0.965,0.985,0.96,0.96,0.991,1,1
+Which party will win the 2022 Maine gubernatorial election?,Democratic,0.82,0.84,0.87,0.91,0.92,0.88,0.825,0.827,0.855,0.87,0.81,0.81,1,1
+Which party will win the 2022 Maine gubernatorial election?,Republican,0.18,0.18,0.13,0.09,0.08,0.12,0.175,0.173,0.145,0.13,0.19,0.19,0,0
+Which party will win the 2022 Maryland gubernatorial election?,Democratic,0.96,0.97,0.98,0.99,0.99,0.99,0.955,0.955,0.975,0.95,0.95,0.95,0,1
+Which party will win the 2022 Maryland gubernatorial election?,Republican,0.05,0.04,0.02,0.01,0.01,0.01,0.045,0.045,0.025,0.05,0.05,0.05,1,0
+***Which party will win the 2022 Texas gubernatorial election?,Democratic,0.08,0.08,0.07,0.03,0.03,0.02,0.075,0.083,0.064,0.08,0.06,0.06,0,0
+***Which party will win the 2022 Texas gubernatorial election?,Republican,0.93,0.94,0.95,0.97,0.97,0.98,0.925,0.917,0.936,0.92,0.94,0.94,1,1
+***Which party will win the 2022 Florida gubernatorial election?,Democratic,0.04,0.04,0.04,0.04,0.03,0.02,0.045,0.04,0.039,0.07,0.05,0.05,0,0
+***Which party will win the 2022 Florida gubernatorial election?,Republican,0.97,0.97,0.98,0.96,0.97,0.98,0.955,0.96,0.961,0.93,0.95,0.95,1,1
+***Which party will win the 2022 Massachusetts gubernatorial election?,Democratic,0.98,0.98,0.98,0.99,0.99,0.99,0.975,0.975,0.985,,,0.94,0,1
+***Which party will win the 2022 Massachusetts gubernatorial election?,Republican,0.02,0.03,0.02,0.01,0.01,0.01,0.025,0.025,0.015,,,0.06,1,0
+Which party will win the 2022 Wisconsin gubernatorial election?,Democratic,0.37,0.4,0.35,0.54,0.53,0.51,0.358,0.371,0.33,0.58,0.54,0.49,1,1
+Which party will win the 2022 Wisconsin gubernatorial election?,Republican,0.63,0.64,0.68,0.46,0.47,0.49,0.642,0.629,0.67,0.42,0.46,0.51,0,0
+Which party will win the 2022 Colorado gubernatorial election?,Democratic,0.95,0.96,0.98,0.99,0.99,0.99,0.946,0.946,0.965,0.91,0.89,0.86,1,1
+Which party will win the 2022 Colorado gubernatorial election?,Republican,0.05,0.05,0.03,0.01,0.01,0.01,0.054,0.054,0.035,0.09,0.11,0.14,0,0
