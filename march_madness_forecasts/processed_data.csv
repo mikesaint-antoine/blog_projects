@@ -1,0 +1,17 @@
+event,betting_prob,fivethirtyeight_prob,noskill_control_prob,outcome
+michigan_state_beat_marquette,0.39823008849557523,0.38,0.5,1
+saint_marys_beat_connecticut,0.38930264048747465,0.26,0.5,0
+creighton_beat_baylor,0.5173641257162701,0.54,0.5,1
+fairleigh_dickinson_beat_florida_atlantic,0.09964830011723329,0.1,0.5,0
+miami_beat_indiana,0.44701799388886787,0.38,0.5,1
+tcu_beat_gonzaga,0.3640776699029126,0.33,0.5,0
+michigan_state_beat_kansas_state,0.548332303891291,0.54,0.5,0
+arkansas_beat_connecticut,0.38930264048747465,0.39,0.5,0
+florida_atlantic_beat_tennessee,0.33252720677146314,0.34,0.5,1
+gonzaga_beat_ucla,0.4556166535742341,0.5,0.5,1
+san_diego_state_beat_alabama,0.25849549811211153,0.24,0.5,1
+miami_beat_houston,0.24862986231787196,0.21,0.5,1
+princeton_beat_creighton,0.19522776572668116,0.17,0.5,0
+xavier_beat_texas,0.37984164348384336,0.3,0.5,0
+florida_atlantic_beat_san_diego_stat,0.45963229416466833,0.38,0.5,0
+miami_beat_connecticut,0.3295622233152976,0.36,0.5,0
