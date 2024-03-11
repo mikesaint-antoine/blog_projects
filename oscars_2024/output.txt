@@ -1,0 +1,180 @@
+
+
+
+#################################################################
+All 4 Overlap
+
+Number of awards: 11
+Number of events: 24
+
+Manifold Brier Score: 0.125
+Kalshi Brier Score: 0.12
+Polymarket Brier Score: 0.123
+DraftKings Brier Score: 0.121
+
+
+
+#################################################################
+Manifold, Kalshi, Draftkings Overlap
+
+Number of awards: 14
+Number of events: 35
+
+Manifold Brier Score: 0.127
+Kalshi Brier Score: 0.125
+DraftKings Brier Score: 0.125
+
+
+
+#################################################################
+Manifold, Polymarket, DraftKings Overlap
+
+Number of awards: 11
+Number of events: 32
+
+Manifold Brier Score: 0.094
+Polymarket Brier Score: 0.092
+DraftKings Brier Score: 0.091
+
+
+
+##########################################################################################################
+##########################################################################################################
+##########################################################################################################
+Manifold Calibration
+
+Number of awards: 15
+Number of events: 57
+
+bin mean: 0.1
+outcome mean: 0.0
+pred mean: 0.038
+bincounts: 33
+
+
+bin mean: 0.3
+outcome mean: 0.5
+pred mean: 0.317
+bincounts: 6
+
+
+bin mean: 0.5
+outcome mean: 0.556
+pred mean: 0.512
+bincounts: 9
+
+
+bin mean: 0.7
+outcome mean: 0.333
+pred mean: 0.677
+bincounts: 3
+
+
+bin mean: 0.9
+outcome mean: 1.0
+pred mean: 0.898
+bincounts: 6
+
+
+#################################################################
+Kalshi Calibration
+
+Number of awards: 14
+Number of events: 37
+
+bin mean: 0.1
+outcome mean: 0.0
+pred mean: 0.053
+bincounts: 15
+
+
+bin mean: 0.3
+outcome mean: 0.429
+pred mean: 0.314
+bincounts: 7
+
+
+bin mean: 0.5
+outcome mean: 0.5
+pred mean: 0.52
+bincounts: 2
+
+
+bin mean: 0.7
+outcome mean: 0.571
+pred mean: 0.691
+bincounts: 7
+
+
+bin mean: 0.9
+outcome mean: 1.0
+pred mean: 0.952
+bincounts: 6
+
+
+#################################################################
+Polymarket Calibration
+
+Number of awards: 11
+Number of events: 36
+
+bin mean: 0.1
+outcome mean: 0.0
+pred mean: 0.038
+bincounts: 20
+
+
+bin mean: 0.3
+outcome mean: 0.5
+pred mean: 0.308
+bincounts: 4
+
+
+bin mean: 0.7
+outcome mean: 0.5
+pred mean: 0.687
+bincounts: 6
+
+
+bin mean: 0.9
+outcome mean: 1.0
+pred mean: 0.933
+bincounts: 6
+
+
+#################################################################
+DraftKings Calibration
+
+Number of awards: 15
+Number of events: 61
+
+bin mean: 0.1
+outcome mean: 0.0
+pred mean: 0.057
+bincounts: 37
+
+
+bin mean: 0.3
+outcome mean: 0.5
+pred mean: 0.357
+bincounts: 4
+
+
+bin mean: 0.5
+outcome mean: 0.6
+pred mean: 0.44
+bincounts: 5
+
+
+bin mean: 0.7
+outcome mean: 0.444
+pred mean: 0.682
+bincounts: 9
+
+
+bin mean: 0.9
+outcome mean: 1.0
+pred mean: 0.951
+bincounts: 6
+
+
