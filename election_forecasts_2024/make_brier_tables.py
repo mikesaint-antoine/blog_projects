@@ -299,12 +299,3 @@ with open(filename, "w") as record_file:
     record_file.write(f"Crowdsourced Forecast,,,{crowdsourced_day_before_SUBSET}\n")
     record_file.write(f"Mike Forecast,,,{mike_forecast_day_before_SUBSET}\n")
 
-
-
-
-
-sys.exit("testing")
-
-
-
-
