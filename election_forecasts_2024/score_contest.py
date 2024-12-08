@@ -39,7 +39,6 @@ with open("contest/contest_entries.csv") as csvfile:
 data = np.array(data)
 
 
-
 questions = []
 outcomes = []
 with open(f"forecasts/outcomes.csv") as csvfile:
@@ -103,6 +102,27 @@ early_winner_ind = np.argsort(early_weighted_briers)[0]
 print(f"Early winner\t{early_names[early_winner_ind]}\t{round(early_raw_briers[early_winner_ind],3)}\t{early_days_before[early_winner_ind]}\t{round(early_weighted_briers[early_winner_ind],3)}")
 
 # print(min(early_weighted_briers))
+
+# print(data.shape)
+# print(len(questions))
+# sys.exit("testing")
+
+heading = ["event", "outcome"]
+
+for i in range(data.shape[0]):
+    heading.append(f"entrant{i}")
+
+
+with open("forecasts/anonymized_contest_entries.csv", "w", newline="") as file:
+    writer = csv.writer(file)
+    writer.writerow(heading)
+
+    for j in range(len(questions)):
+        writer.writerow([questions[j]] + [outcomes[j]] + list(data[:,j]))
+
+
+
+
 
 
 
